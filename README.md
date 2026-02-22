@@ -14,7 +14,7 @@ Soy un ingeniero con sólida experiencia en la integración de hardware-software
 ## 🚀 Proyectos Destacados
 
 * 📟 **[Controlador HMI con Nextion y SAMD21](https://github.com/Gre3nSn0w/HMI-SAMD21-Interface)** - Desarrollo de firmware y comunicación serial para la gestión de interfaces táctiles, optimizando la interacción hardware-usuario.
-* 💻 **[Resolución Algorítmica en C++]*(Próximamente)*** - Desarrollo de aplicaciones enfocadas en procesamiento de datos y estructuras de control usando Programación Orientada a Objetos (POO).
+* 💻 **[Resolución Algorítmica en C++]*(https://github.com/Gre3nSn0w/CPP-Algorithms-and-Data-Structures)*** - Desarrollo de aplicaciones enfocadas en procesamiento de datos y estructuras de control usando Programación Orientada a Objetos (POO).
 
 ---
 📫 **¿Conectamos?** Escríbeme a: rayquaza566@gmail.com
