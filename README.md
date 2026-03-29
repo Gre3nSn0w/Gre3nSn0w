@@ -1,9 +1,5 @@
-# Hola, soy Fernando Llanos (@Gre3nSn0w)
-### Ingeniero en Comunicaciones y Electrónica | Hardware, Software & Ciberseguridad
-
-Soy un ingeniero con sólida experiencia en la integración de hardware-software, sistemas embebidos y administración Linux. Mi enfoque es profundamente analítico, interesándome especialmente en la ciberseguridad, la optimización de sistemas y la automatización para desplegar soluciones tecnológicas eficientes en proyectos de alto impacto.
-
-##  Stack Tecnológico y Habilidades
+# Fernando Llanos (@Gre3nSn0w)
+### Ingeniero en Comunicaciones y Electrónica ICE IPN ESIMEZ | Hardware, Software & Ciberseguridad
 
 * ** Lenguajes de Programación:** C/C++, C#, Python, Kotlin, Java, SQL, JavaScript, HTML, CSS.
 * ** Sistemas y Entornos:** Administración avanzada y personalización de Linux, administración remota segura (SSH), y optimización/gestión de entornos Windows y MacOS.
@@ -13,8 +9,8 @@ Soy un ingeniero con sólida experiencia en la integración de hardware-software
 
 ## Portafolio:
 
-* 📟 **[Controlador HMI con Nextion y SAMD21](https://github.com/Gre3nSn0w/HMI-SAMD21-Interface)** - Desarrollo de firmware y comunicación serial para la gestión de interfaces táctiles, optimizando la interacción hardware-usuario.
-* 💻 **[Resolución Algorítmica en C++](https://github.com/Gre3nSn0w/CPP-Algorithms-and-Data-Structures)** - Desarrollo de aplicaciones enfocadas en procesamiento de datos y estructuras de control usando Programación Orientada a Objetos (POO).
+**[Controlador HMI con Nextion y SAMD21](https://github.com/Gre3nSn0w/HMI-SAMD21-Interface)** - Desarrollo de firmware y comunicación serial para la gestión de interfaces táctiles, optimizando la interacción hardware-usuario.
+**[Resolución Algorítmica en C++](https://github.com/Gre3nSn0w/CPP-Algorithms-and-Data-Structures)** - Desarrollo de aplicaciones enfocadas en procesamiento de datos y estructuras de control usando Programación Orientada a Objetos (POO).
 
 ---
-📫 **¿Conectamos?** Escríbeme a: rayquaza566@gmail.com
+📫 **¿rayquaza566@gmail.com
